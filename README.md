@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - * twitter_ios_start*
 
 **Name of your app** is a basic twitter app to read your tweets.
 
@@ -19,9 +19,13 @@ The following **bonus** features are implemented:
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
+## Video Walkthrough #1
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/vS3cW7iLV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Video Walktrough #2
+
+<img src='http://g.recordit.co/vS3cW7iLV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
