@@ -27,5 +27,5 @@ Here's a walkthrough of implemented user stories:
 
 ## Video Walktrough #2
 
-<img src='http://g.recordit.co/vS3cW7iLV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/QHKUqKjvNu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
