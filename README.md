@@ -1,31 +1,17 @@
-# Project 3 - * twitter_ios_start*
+## CSc 690 - Final Project Idea
+   For the final project I decided I wanted to Re-create the twitter app. The way
+   this would work is by getting the API from the website "twitter" at https://developer.twitter.com/en/docs/basics/getting-started
+   This website will get the current users tweets from the people the user follows. Since the website has to refresh constantly my app will automatically will refresh as well and give you the most recent tweets.
+   Usere will be able to retweet, like and unlike tweets as well as even post.
 
-**Name of your app** is a basic twitter app to read your tweets.
+## Team Members
+- Hector Aguirre
 
-Time spent: **X** hours spent in total
+## App Walkthrough 
 
-## User Stories
+<img src ="http://g.recordit.co/YLmMy8TS0L.gif" width=250><br>
 
-The following **required** functionality is completed:
 
-- [x ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ x] User can log in. (1pt)
-- [ x] User can log out. (1pt)
-- [ x] User stays logged in across restarts. (1pt)
-- [ x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
-
-The following **bonus** features are implemented:
-
-- [ x] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
-
-## Video Walkthrough #1
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/vS3cW7iLV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-## Video Walktrough #2
-
-<img src='http://g.recordit.co/QHKUqKjvNu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+## MovieDataBase
+https://developer.twitter.com/en/docs/basics/getting-started
+Here is the developer API for twitter used in order to get the App information.
